@@ -189,4 +189,3 @@ cython_debug/
 /*.zip
 /cs336_assignment1_basics.pdf
 *.zip
-tests/fixtures/ts_tests/model.pt
